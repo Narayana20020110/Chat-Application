@@ -13,7 +13,7 @@ In UserDB.js replace 'uri' with your mongodb uri.
 
 ### `node server.js`
 
-In CHAT-APP directory run the Backend(server.js).
+In Chat-Application directory run the Backend(server.js).
 
 ### `cd client`
 
